@@ -14,7 +14,7 @@ This repository contains the following files/folders:
 7. capstone.png, app-screenshot.png: <i>Images for R presentation.</i>
 
 
- <center> ## More details on Capstone Project </center>
+ <h2><center> More details on Capstone Project </center></h2>
 
 
 This application is the capstone project for the Coursera Data Science specialization held by Johns Hopkins University in cooperation with SwiftKey.
