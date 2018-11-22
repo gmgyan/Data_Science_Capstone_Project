@@ -61,3 +61,5 @@ When the text (**1**) is entered, the field with the predicted next word (**2**)
 * This pitch deck is located here: [http://rpubs.com/gkgm/PredictNextWord](http://rpubs.com/gkgm/PredictNextWord)
 
 * Learn more about the Coursera Data Science Specialization: [https://www.coursera.org/specialization/jhudatascience/1](https://www.coursera.org/specialization/jhudatascience/1)
+
+<a href="./about.md">Visit W3Schools</a>
