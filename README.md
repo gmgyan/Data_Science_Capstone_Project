@@ -62,4 +62,4 @@ When the text (**1**) is entered, the field with the predicted next word (**2**)
 
 * Learn more about the Coursera Data Science Specialization: [https://www.coursera.org/specialization/jhudatascience/1](https://www.coursera.org/specialization/jhudatascience/1)
 
-<a href="./about.md">Visit W3Schools</a>
+<a href="./about/about.md">more details</a>
