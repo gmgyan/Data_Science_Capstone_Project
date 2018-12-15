@@ -52,5 +52,5 @@ How to use App
 <i>The user interface of this application works as follows: </i> <br>
 When the text [**1**] is entered, the field with the predicted next word [**2**] refreshes instantaneously and  also the whole text input [**3**] gets displayed with suggested completion work as shown below in the diagram.
 </small>
-![Application Screenshot](./app-screenshot.png)
+![Application Screenshot](app-screenshot.png)
 
