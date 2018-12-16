@@ -21,7 +21,7 @@ After creating a data samples from the HC Corpora data, this samples are cleaned
 
 Those aggregated bi-,tri-gram term frequency matrices are transferred into frequency dictionaries.
 
-The resulting data.frames are used to predict the next word in connection with the text input by a user of the described application and the frequencies of the underlying *n*-grams table.
+The resulting data frames are used to predict the next word in connection with the text input by a user of the described application and the frequencies of the underlying *n*-grams table.
 
 ******
 
